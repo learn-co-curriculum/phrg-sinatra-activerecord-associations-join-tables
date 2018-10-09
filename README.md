@@ -78,5 +78,8 @@ And finally, we have the model for the join table, `UserItem`. In this model, we
 
 This gives us access to the users who have purchased a particular item, as well as all the items purchased by a specific user.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-activerecord-associations-join-tables/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-activerecord-associations-join-tables/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 
 <p data-visibility='hidden'>PHRG Sinatra ActiveRecord Associations: Join Tables</p>
